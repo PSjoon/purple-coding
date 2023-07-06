@@ -1,0 +1,27 @@
+{
+  "name": "purplecoding",
+  "displayName": "Purple Coding",
+  "description": "Purple Coding by PSJoon",
+  "version": "0.0.1",
+  "publisher": "PSJoon",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/purple_icon.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Coding",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Coding-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSjoon/purple-coding"
+  }
+}
