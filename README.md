@@ -1,16 +1,20 @@
-# purplecoding README
+<p align="center">
+<img width="300" height="300" src="./assets/purple_icon.jpg"></img>
 
-## Working with Markdown
+<h3 align="center"> Purple Coding - Pedro dos Santos Júnior</h3>
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+***
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<p>
+Tema para a IDE Visual Studio Code Criado por Pedro dos Santos Júnior visando a criação de um tema excelente para codificar em período noturno e que seja agradavel para o programador.
+</p>
 
-## For more information
+***
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<div> 
+  <!-- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:pedrosantos.joon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrosantosjoon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-**Enjoy!**
+</div>
