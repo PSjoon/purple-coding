@@ -2,7 +2,7 @@
   "name": "purplecoding",
   "displayName": "Purple Coding",
   "description": "Purple Coding by PSJoon",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "PSJoon",
   "engines": {
     "vscode": "^1.79.0"
@@ -23,5 +23,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/PSjoon/purple-coding"
+  },
+  "dependencies": {
+    "generator-code": "^1.11.8",
+    "vsce": "^2.15.0",
+    "yo": "^5.1.0"
   }
 }
